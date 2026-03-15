@@ -270,5 +270,3 @@ Sprint1_DL.ipynb
 **Isabella Pérez**
 
 Deep Learning / Machine Learning project focused on **computer vision for agricultural disease detection**.
-
-ecto de clase → proyecto de portafolio profesional**.
